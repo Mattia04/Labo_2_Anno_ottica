@@ -7,7 +7,7 @@ Qui dentro verranno messi i dati e gli script per analizzare i dati.
 Esperimenti che effettueremo in ordine di data.
 
 - Esperienza di Michelson
-  - [ ] Raccolta dati
+  - [x] Raccolta dati
   - [ ] Analisi dati (al 90%, mancano i t-student e chi-quadri)
   - [ ] Relazione
 - Spettrometro a reticolo
