@@ -8,10 +8,10 @@ Esperimenti che effettueremo in ordine di data.
 
 - Esperienza di Michelson
   - [x] Raccolta dati
-  - [ ] Analisi dati (al 90%, mancano i t-student e chi-quadri)
+  - [x] Analisi dati
   - [ ] Relazione
 - Spettrometro a reticolo
-  - [ ] Raccolta dati
+  - [x] Raccolta dati
   - [ ] Analisi dati
   - [ ] Relazione
 - Spettrometro a prisma
@@ -30,3 +30,7 @@ Esperimenti che effettueremo in ordine di data.
   - [ ] Raccolta dati
   - [ ] Analisi dati
   - [ ] Relazione
+
+## `src`
+
+In questa cartella sono contenuti script di utility per rendere l'analisi dati più veloce e comoda.
