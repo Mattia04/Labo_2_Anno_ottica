@@ -9,13 +9,13 @@ Esperimenti che effettueremo in ordine di data.
 - Esperienza di Michelson
   - [x] Raccolta dati
   - [x] Analisi dati
-  - [ ] Relazione
+  - [ ] Relazione (quasi finita)
 - Spettrometro a reticolo
   - [x] Raccolta dati
   - [ ] Analisi dati
   - [ ] Relazione
 - Spettrometro a prisma
-  - [ ] Raccolta dati
+  - [x] Raccolta dati
   - [ ] Analisi dati
   - [ ] Relazione
 - Misura della velocità della luce
