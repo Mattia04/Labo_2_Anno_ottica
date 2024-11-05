@@ -9,19 +9,19 @@ Esperimenti che effettueremo in ordine di data.
 - Esperienza di Michelson
   - [x] Raccolta dati
   - [x] Analisi dati
-  - [ ] Relazione (quasi finita)
+  - [x] Relazione
 - Spettrometro a reticolo
   - [x] Raccolta dati
-  - [ ] Analisi dati
-  - [ ] Relazione
+  - [ ] Analisi dati (iniziata)
+  - [ ] Relazione (iniziata)
 - Spettrometro a prisma
   - [x] Raccolta dati
-  - [ ] Analisi dati
+  - [ ] Analisi dati (iniziata)
   - [ ] Relazione
 - Misura della velocità della luce
-  - [ ] Raccolta dati
-  - [ ] Analisi dati
-  - [ ] Relazione
+  - [x] Raccolta dati
+  - [ ] Analisi dati (quasi finita, mancano da rivedere un paio di considerazioni sulle incertezze e alcune misure sfasate)
+  - [ ] Relazione (non dico iniziata perché è una supercazzola, c'è il preambolo)
 - Esperimento di Millikan
   - [ ] Raccolta dati
   - [ ] Analisi dati
