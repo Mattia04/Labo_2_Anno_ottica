@@ -23,7 +23,7 @@ Esperimenti che effettueremo in ordine di data.
   - [ ] Analisi dati (quasi finita, mancano da rivedere un paio di considerazioni sulle incertezze e alcune misure sfasate)
   - [ ] Relazione (non dico iniziata perché è una supercazzola, c'è il preambolo)
 - Esperimento di Millikan
-  - [ ] Raccolta dati
+  - [x] Raccolta dati
   - [ ] Analisi dati
   - [ ] Relazione
 - Misura di e/m
