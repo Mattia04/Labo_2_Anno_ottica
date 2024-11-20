@@ -24,10 +24,10 @@ Esperimenti che effettueremo in ordine di data.
   - [ ] Relazione (non dico iniziata perché è una supercazzola, c'è il preambolo)
 - Esperimento di Millikan
   - [x] Raccolta dati
-  - [ ] Analisi dati
+  - [ ] Analisi dati (TI ODIO)
   - [ ] Relazione
 - Misura di e/m
-  - [ ] Raccolta dati
+  - [x] Raccolta dati
   - [ ] Analisi dati
   - [ ] Relazione
 
