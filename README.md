@@ -30,7 +30,3 @@ Esperimenti che effettueremo in ordine di data.
   - [x] Raccolta dati
   - [ ] Analisi dati
   - [ ] Relazione
-
-## `src`
-
-In questa cartella sono contenuti script di utility per rendere l'analisi dati più veloce e comoda.
