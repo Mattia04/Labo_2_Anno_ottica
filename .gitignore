@@ -2,3 +2,4 @@
 /.venv
 /src
 .gitignore
+.idea/
