@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="508mm"
+   height="285.75mm"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="SistemaOttico.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.43874201"
+     inkscape:cx="771.52403"
+     inkscape:cy="986.91256"
+     inkscape:window-width="1712"
+     inkscape:window-height="1069"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="0.8"
+       markerHeight="0.8"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path34" />
+    </marker>
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="0,0"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="0,0"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="bsplinespiro"
+       autoreverse="false"
+       close="false"
+       join="false"
+       linkedpaths="#path5,0,1"
+       id="path-effect6" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="bsplinespiro"
+       autoreverse="false"
+       close="false"
+       join="false"
+       linkedpaths="#path6,0,1"
+       id="path-effect8" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g46"
+       inkscape:label="Luce">
+      <path
+         style="opacity:1;fill:#ffd5d5;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -40.752817,144.72031 2.649447,-2.58012 -0.09408,49.22616 -2.525851,-2.45459 z"
+         id="path36"
+         sodipodi:nodetypes="ccccc"
+         transform="matrix(1,0,0,-1,68.369963,336.12283)" />
+      <rect
+         style="opacity:1;fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+         id="rect2"
+         width="29.168947"
+         height="3.7949719"
+         x="173.13426"
+         y="281.92514"
+         rx="0"
+         inkscape:label="rect2"
+         transform="rotate(-15,43.842362,-258.3893)" />
+      <path
+         style="opacity:1;fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m 268.37312,219.96564 78.32263,-15.33389 -1.81117,-6.84707 -75.54351,25.83899 z"
+         id="path9"
+         sodipodi:nodetypes="ccccc"
+         transform="translate(68.369963,2.5428377)" />
+      <path
+         style="opacity:1;fill:#ffd5d5;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m -40.641536,188.88188 2.580831,2.56534 423.994665,2.71861 0.01,-7.31876 z"
+         id="path35"
+         sodipodi:nodetypes="ccccc"
+         transform="translate(68.369963,2.5428377)" />
+      <rect
+         style="fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+         id="rect2-9"
+         width="41.698193"
+         height="7.0372977"
+         x="281.84793"
+         y="280.37253"
+         rx="0"
+         transform="rotate(-15,43.842362,-258.3893)" />
+      <path
+         style="opacity:1;fill:#f4d7d7;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m 313.50954,208.51582 2.89392,15.16786 -4.59493,-12.22155 z"
+         id="path23"
+         sodipodi:nodetypes="cccc"
+         transform="translate(68.369963,2.5428377)" />
+      <path
+         style="opacity:1;fill:#ffd5d5;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+         d="m 27.63131,147.27699 2.497619,-2.46762 425.445571,1.15138 z"
+         id="path40"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g47"
+       inkscape:label="Sistema di specchi">
+      <g
+         id="g34"
+         inkscape:label="Specchio R"
+         transform="rotate(-15,337.38473,-33.901778)">
+        <rect
+           style="opacity:1;fill:#55ddff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           id="rect29"
+           width="2.4237046"
+           height="18.787527"
+           x="432.9086"
+           y="97.378555"
+           transform="rotate(15.000001)"
+           rx="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:11.2889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:-0.529167px;word-spacing:0px;baseline-shift:baseline;opacity:1;fill:#55ddff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="436.38632"
+           y="109.46611"
+           id="text29"
+           transform="rotate(15.000001)"><tspan
+             sodipodi:role="line"
+             id="tspan29"
+             style="font-size:11.2889px;baseline-shift:baseline;stroke-width:0"
+             x="436.38632"
+             y="109.46611">S<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan30">R</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:11.2889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:-0.529167px;word-spacing:0px;opacity:1;fill:#55ddff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="433.69876"
+           y="124.30251"
+           id="text31"
+           transform="rotate(15.000001)"><tspan
+             sodipodi:role="line"
+             id="tspan31"
+             style="text-align:center;letter-spacing:-0.529167px;text-anchor:middle;stroke-width:0"
+             x="433.69876"
+             y="124.30251"
+             dy="0 0 0 0 0 0">Specchio</tspan><tspan
+             sodipodi:role="line"
+             style="text-align:center;letter-spacing:-0.529167px;text-anchor:middle;stroke-width:0"
+             x="433.43417"
+             y="138.41364"
+             id="tspan32"
+             dy="-3.46">Rotante</tspan></text>
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;marker-start:url(#ArrowWideRounded);marker-end:url(#ArrowWideRounded)"
+           d="m 389.37193,204.62031 c 3.21451,-3.82449 8.60286,-2.53972 9.71089,2.61445"
+           id="path32"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g36"
+         inkscape:label="S1"
+         transform="translate(68.369963,2.5428377)">
+        <rect
+           style="fill:#55ddff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           id="rect29-0"
+           width="2.4237046"
+           height="18.787527"
+           x="-164.70633"
+           y="96.372231"
+           rx="0"
+           transform="rotate(-45)" />
+        <text
+           xml:space="preserve"
+           style="font-size:11.2889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:-0.529167px;word-spacing:0px;baseline-shift:baseline;fill:#55ddff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="-51.811863"
+           y="201.04422"
+           id="text29-1"><tspan
+             sodipodi:role="line"
+             id="tspan29-6"
+             style="font-size:11.2889px;baseline-shift:baseline;stroke-width:0"
+             x="-51.811863"
+             y="201.04422">S<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan35">1</tspan></tspan></text>
+      </g>
+      <g
+         id="g36-1"
+         inkscape:label="S2"
+         transform="matrix(1,0,0,-1,68.369963,336.12283)">
+        <rect
+           style="fill:#55ddff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           id="rect29-0-2"
+           width="2.4237046"
+           height="18.787527"
+           x="-164.70633"
+           y="96.372231"
+           rx="0"
+           transform="rotate(-45)" />
+        <text
+           xml:space="preserve"
+           style="font-size:11.2889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:-0.529167px;word-spacing:0px;baseline-shift:baseline;fill:#55ddff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="-51.811863"
+           y="-195.65663"
+           id="text29-1-6"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             id="tspan29-6-6"
+             style="font-size:11.2889px;baseline-shift:baseline;stroke-width:0"
+             x="-51.811863"
+             y="-195.65663">S<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan36">2</tspan></tspan></text>
+      </g>
+      <g
+         id="g45"
+         inkscape:label="Specchio Concavo">
+        <path
+           d="m 453.20128,136.33328 a 27.576019,27.576019 0 0 1 1.65158,9.39374 27.576019,27.576019 0 0 1 -1.6738,9.26145 v 0.13229 h 2.42362 v -18.78748 z"
+           style="fill:#55ddff;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3"
+           id="path39" />
+        <text
+           xml:space="preserve"
+           style="font-size:11.2889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:-0.529167px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffd5d5;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="461.35986"
+           y="148.59503"
+           id="text40"><tspan
+             sodipodi:role="line"
+             id="tspan40"
+             style="fill:#2ad4ff;stroke-width:0"
+             x="461.09528"
+             y="148.59503">S<tspan
+   style="font-size:65%;baseline-shift:sub;fill:#2ad4ff"
+   id="tspan41">C</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:11.2889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:-0.529167px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#2ad4ff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="454.55414"
+           y="123.91485"
+           id="text42"><tspan
+             sodipodi:role="line"
+             id="tspan42"
+             style="stroke-width:0"
+             x="454.55414"
+             y="123.91485">Specchio</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0"
+             x="454.28955"
+             y="138.02597"
+             dy="-3.4000001"
+             id="tspan44">Concavo</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g29"
+       inkscape:label="bho"
+       transform="translate(68.369962,2.5428377)"
+       inkscape:export-filename="g29.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g35"
+         inkscape:label="Laser">
+        <rect
+           style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           id="rect1"
+           width="46.734383"
+           height="13.68988"
+           x="127.33088"
+           y="276.97769"
+           rx="2.8176191"
+           inkscape:label="rect1"
+           transform="rotate(-15)" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.7px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:-0.529167px;word-spacing:0px;fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="137.48752"
+           y="275.52994"
+           id="text3"
+           transform="rotate(-15)"><tspan
+             sodipodi:role="line"
+             id="tspan3"
+             style="font-size:12.7px;fill:#800000;stroke-width:0"
+             x="137.48752"
+             y="275.52994">Laser</tspan></text>
+      </g>
+      <g
+         id="g26"
+         inkscape:label="L2"
+         transform="rotate(-15,293.54236,224.48752)">
+        <text
+           xml:space="preserve"
+           style="font-size:11.2889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:-0.529167px;word-spacing:0px;fill:#87cdde;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="344.06641"
+           y="231.80313"
+           id="text4-4"><tspan
+             sodipodi:role="line"
+             id="tspan4-6"
+             style="font-size:11.2889px;fill:#87cdde;stroke-width:0"
+             x="344.06641"
+             y="231.80313">L2</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:11.2889px;fill:#87cdde;stroke-width:0"
+             x="344.06641"
+             y="245.91426"
+             id="tspan5-0" /></text>
+        <path
+           id="path2-0"
+           style="fill:#afdde9;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           d="m 349.95064,207.84428 a 4.1525323,11.624898 0 0 0 -1.02852,7.65277 4.1525323,11.624898 0 0 0 1.02852,7.65366 4.1525323,11.624898 0 0 0 1.02851,-7.65366 4.1525323,11.624898 0 0 0 -1.02851,-7.65277 z" />
+      </g>
+      <g
+         id="g25"
+         inkscape:label="L1"
+         transform="rotate(-15,293.54236,224.48752)">
+        <text
+           xml:space="preserve"
+           style="font-size:11.2889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:-0.529167px;word-spacing:0px;opacity:1;fill:#87cdde;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="264.95029"
+           y="228.78442"
+           id="text4"><tspan
+             sodipodi:role="line"
+             id="tspan4"
+             style="font-size:11.2889px;fill:#87cdde;stroke-width:0"
+             x="264.95029"
+             y="228.78442">L1</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:11.2889px;fill:#87cdde;stroke-width:0"
+             x="264.95029"
+             y="242.89555"
+             id="tspan5" /></text>
+        <path
+           id="path2"
+           style="opacity:1;fill:#afdde9;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           d="m 270.37976,210.37347 a 4.1525323,7.783172 0 0 0 -1.02852,5.12373 4.1525323,7.783172 0 0 0 1.02852,5.12432 4.1525323,7.783172 0 0 0 1.02851,-5.12432 4.1525323,7.783172 0 0 0 -1.02851,-5.12373 z" />
+      </g>
+      <g
+         id="g24"
+         inkscape:label="Splitter"
+         transform="rotate(-15,293.54236,224.48752)">
+        <g
+           id="g9"
+           inkscape:label="g9">
+          <rect
+             style="opacity:1;fill:#afdde9;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+             id="rect9"
+             width="1.3606635"
+             height="13.509445"
+             x="374.14752"
+             y="-76.835526"
+             transform="rotate(45)" />
+          <rect
+             style="fill:#00ccff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+             id="rect9-9"
+             width="0.417528"
+             height="13.509445"
+             x="375.19101"
+             y="-76.835526"
+             transform="rotate(45)" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:12.7px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:-0.529167px;word-spacing:0px;opacity:1;fill:#00ccff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="297.41641"
+           y="209.29659"
+           id="text9"
+           inkscape:label="text9"><tspan
+             sodipodi:role="line"
+             id="tspan9"
+             style="stroke-width:0"
+             x="297.41641"
+             y="209.29659">Splitter</tspan></text>
+      </g>
+      <g
+         id="g27"
+         inkscape:label="Microscopio"
+         transform="rotate(-15,293.54236,224.48752)">
+        <g
+           id="g23"
+           inkscape:label="g23"
+           transform="translate(1.1856191,-2.1017793)">
+          <rect
+             style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+             id="rect22"
+             width="2.1050024"
+             height="2.2929492"
+             x="313.54544"
+             y="237.7149"
+             ry="0" />
+          <rect
+             style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+             id="rect21"
+             width="4.839355"
+             height="13.988714"
+             x="312.17825"
+             y="225.10495"
+             ry="1.3988776" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:12.7px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:-0.529167px;word-spacing:0px;opacity:1;fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none"
+           x="286.82983"
+           y="247.95871"
+           id="text23"><tspan
+             sodipodi:role="line"
+             id="tspan23"
+             style="fill:#000080;stroke-width:0"
+             x="286.82983"
+             y="247.95871">Microscopio</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
