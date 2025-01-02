@@ -1,32 +1,13 @@
-# Cartella di laboratorio di ottica del secondo anno a fisica UNIMI
+# Cartella di laboratorio di ottica del secondo anno - UNIMI
 
-Qui dentro verranno messi i dati e gli script per analizzare i dati.
+In questa repository sono contenute le analisi dati, eseguite utilizzando dei `notebook Jupyter` e `Python`, dei seguenti esperimenti condotti in laboratorio durante il semestre:
 
-## Esperimenti
+- [Esperienza di Michelson](https://github.com/Mattia04/Labo_2_Anno_ottica/blob/main/Michelson/analisi.ipynb)
+- [Misura della velocità della luce](https://github.com/Mattia04/Labo_2_Anno_ottica/blob/main/Velocita_luce/analisi.ipynb)
+- [Esperimento di Millikan](https://github.com/Mattia04/Labo_2_Anno_ottica/blob/main/Millikan/analisi2.ipynb)
 
-Esperimenti che effettueremo in ordine di data.
+Per gli altri 3 esperimenti rimando alle repository di Filippo:
 
-- Esperienza di Michelson
-  - [x] Raccolta dati
-  - [x] Analisi dati
-  - [x] Relazione
-- Spettrometro a reticolo
-  - [x] Raccolta dati
-  - [ ] Analisi dati (iniziata)
-  - [ ] Relazione (iniziata)
-- Spettrometro a prisma
-  - [x] Raccolta dati
-  - [ ] Analisi dati (iniziata)
-  - [ ] Relazione
-- Misura della velocità della luce
-  - [x] Raccolta dati
-  - [ ] Analisi dati (quasi finita, mancano da rivedere un paio di considerazioni sulle incertezze e alcune misure sfasate)
-  - [ ] Relazione (non dico iniziata perché è una supercazzola, c'è il preambolo)
-- Esperimento di Millikan
-  - [x] Raccolta dati
-  - [ ] Analisi dati
-  - [ ] Relazione
-- Misura di e/m
-  - [x] Raccolta dati
-  - [ ] Analisi dati
-  - [ ] Relazione
+- [Spettrometro a reticolo](https://github.com/trapano-monogamo/labo_OEFM_reticolo)
+- [Spettrometro a prisma](https://github.com/trapano-monogamo/labo_OEFM_prisma)
+- [Misura del rapporto carica/massa dell'elettrone](https://github.com/trapano-monogamo/labo_OEFM_eom)
