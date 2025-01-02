@@ -6,7 +6,7 @@ In questa repository sono contenute le analisi dati, eseguite utilizzando dei `n
 - [Misura della velocità della luce](https://github.com/Mattia04/Labo_2_Anno_ottica/blob/main/Velocita_luce/analisi.ipynb)
 - [Esperimento di Millikan](https://github.com/Mattia04/Labo_2_Anno_ottica/blob/main/Millikan/analisi2.ipynb)
 
-Per gli altri 3 esperimenti rimando alle repository di Filippo:
+Per gli altri 3 esperimenti rimando alle repository di Filippo, che ha eseguito l'analisi dati in `Haskell`:
 
 - [Spettrometro a reticolo](https://github.com/trapano-monogamo/labo_OEFM_reticolo)
 - [Spettrometro a prisma](https://github.com/trapano-monogamo/labo_OEFM_prisma)
